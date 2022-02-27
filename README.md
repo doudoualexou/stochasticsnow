@@ -9,4 +9,4 @@ The following Panda libraries must be installed:
   - Numpy.Stats (https://numpy.org/doc/stable/index.html)
   - Matplotlib.pyplot (https://matplotlib.org/)
 
-Research paper written in 2021-22, as part of the matura certificate. 
+Research paper written in 2021, as part of the matura certificate. 
