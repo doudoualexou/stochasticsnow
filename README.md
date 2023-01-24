@@ -2,7 +2,7 @@
 
 **Stochastic Modelling of Snow Depth in Mountains, by Alexandre Faroux**
 
-This research paper was written with the goal of applying stochastics (Wiener process) to the modelling of snow depth in mountains. Throughout the paper, I explore possible applications, try to find an accurate model and build a Python program capable of running simmulations, to prove its accuracy and make predictions. 
+This research paper was written with the goal of taking a simple approach to stochastics (Wiener process) in order to model snow depth in mountains. Throughout the paper, I explore possible applications, try to find an accurate model and build a Python program capable of running simmulations, to prove its accuracy and make predictions. 
 
 The following Panda libraries must be installed:
   - Pandas (https://pandas.pydata.org/)
